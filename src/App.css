@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.avatar{
+  margin-right: 10px;
+}
+.main-div{
+margin: 0 auto;
+}
